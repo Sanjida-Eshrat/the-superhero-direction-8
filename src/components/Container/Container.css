@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: (3,1fr);
+}
+#left-text{
+    text-align: left;
+    margin-left: 80px;
+}

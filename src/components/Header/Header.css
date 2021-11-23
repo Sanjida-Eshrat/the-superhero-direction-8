@@ -1,0 +1,10 @@
+.header{
+    text-align: center; 
+    color: rgb(4, 51, 4);
+}
+.logo{
+    height: 120px;
+}
+#header-text{
+    font-size: 50px;
+}
